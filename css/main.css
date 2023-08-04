@@ -1,0 +1,23 @@
+﻿
+body * {
+    margin: 0 auto;
+    text-align: center;
+        padding:1rem;
+}
+
+body {
+    background-color: lightgreen
+}
+
+.wrapper {
+    padding: 3rem;
+    display:flex;
+}
+.box {
+    background-color: #91b781;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+h3 {
+    padding :2rem;
+}
