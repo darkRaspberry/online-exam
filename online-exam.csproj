@@ -125,6 +125,12 @@
     <Content Include="exam.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Readme.md" />
+    <Content Include="screenshot\1.png" />
+    <Content Include="screenshot\2.png" />
+    <Content Include="screenshot\3.png" />
+    <Content Include="screenshot\4.png" />
+    <Content Include="screenshot\5.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
