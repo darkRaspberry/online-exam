@@ -9,6 +9,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <h1>Admin Panel</h1>
         <div class="wrapper">
             <div class="box">
             <h3>Add New Students</h3>
@@ -48,6 +49,36 @@
             <div class="box">
                 <h3>Student Table</h3>
                 <br />
+                <table>
+                  <tr>
+                    <th>StudentID</th>
+                    <th>Name</th>
+                    <th>Class</th>
+                    <th>Password</th>
+                  </tr>
+                
+                  <tr>
+                    <td>00001</td>
+                    <td>Abhay</td>
+                    <td>BCA</td>
+                    <td>password</td>
+                
+                  </tr>
+                  <tr>
+                    <td>00002</td>
+                    <td>raspberry</td>
+                    <td>BTECH</td>
+                    <td>password</td>
+                
+                  </tr>
+                  <tr>
+                    <td>00003</td>
+                    <td>Ranu</td>
+                    <td>CA</td>
+                    <td>password</td>
+                  </tr>
+                
+                </table>
                 <asp:GridView ID="GridView1" runat="server">
                 </asp:GridView>
             </div>

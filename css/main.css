@@ -1,5 +1,5 @@
 ﻿
-body * {
+* {
     margin: 0 auto;
     text-align: center;
         padding:1rem;
@@ -11,7 +11,9 @@ body {
 
 .wrapper {
     padding: 3rem;
-    display:flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .box {
     background-color: #91b781;

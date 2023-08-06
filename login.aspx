@@ -9,7 +9,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div class="wrapper">
+        <h1>Online Examination</h1>
+        <div class="box" style="display: inline-block">
             <h3>Login</h3>
             <br />
             <asp:Label ID="Label1" runat="server" Text="UserID"></asp:Label>
